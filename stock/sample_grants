@@ -1,0 +1,45 @@
+[
+{
+	"Symbol": "ORCL",
+	"Option":
+	[
+		{
+			"Shares": 100,
+			"StrikePrice": 40.2
+		},
+		{	"Shares": 50,
+			"StrikePrice": 33.75
+		}
+	],
+	"Rsu":
+	[
+		{
+			"Shares": 140,
+			"Price": 41.2,
+			"Vested": true
+		},
+		{	"Shares": 175,
+			"Price": 38.1,
+			"Vested": true
+		},
+		{	"Shares": 525,
+			"Price": 38.1,
+			"Vested": false
+		}
+	]
+},
+{
+
+	"Symbol": "CSCO",
+	"Option":
+	[
+		{
+			"Shares": 400,
+			"StrikePrice": 19.22
+		},
+		{	"Shares": 500,
+			"StrikePrice": 29.75
+		}
+	]
+}
+]
